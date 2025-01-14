@@ -1,0 +1,1428 @@
+[
+    {
+        "id": 48696,
+        "series_name": "Audinor T3.2",
+        "original_description": "Microphone in Audinor wireless microphone system.",
+        "photos": [
+            {
+                "item_id": 48696,
+                "photo_file_name": "48696.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/orig/48696.jpg",
+                "photo_type": "1"
+            },
+            {
+                "item_id": 48696,
+                "photo_file_name": "48696.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/lnet/48696.jpg",
+                "photo_type": "3"
+            },
+            {
+                "item_id": 48696,
+                "photo_file_name": "48696.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/snet/48696.jpg",
+                "photo_type": "4"
+            }
+        ],
+        "LLM_output": {
+            "detailed_description": "The Audinor T3.2 is a wireless microphone system designed to enhance hearing and communication for individuals with hearing impairments. This device is part of the Audinor system, which includes a microphone and a receiver that can be connected to hearing aids or cochlear implants. The microphone is small and discreet, designed to be worn by a speaker to transmit sound directly to the listener's hearing device. The system operates on a wireless frequency, ensuring clear and uninterrupted sound transmission. It is particularly useful in environments where background noise is high or where distance between the speaker and listener is significant. The Audinor T3.2 is designed to improve the quality of life for individuals with hearing challenges by making communication easier and more effective.",
+            "goals": [
+                "To optimize speech comprehension in diverse settings.",
+                "To facilitate active engagement in social and professional contexts.",
+                "Alleviate the burden and exhaustion associated with hearing difficulties.",
+                "To foster autonomy and self-assurance in everyday tasks."
+            ],
+            "healthcare_challenges": [
+                "Hearing impairments and hearing loss.",
+                "Difficulties in understanding speech in noisy environments.",
+                "Challenges in communicating effectively in large groups or public settings.",
+                "Hearing aids or cochlear implants."
+            ],
+            "goal_classification": {
+                "choice_and_control": false,
+                "daily_life": true,
+                "work": true,
+                "where_live": false,
+                "health_wellbeing": true,
+                "learning": true,
+                "relationships": true,
+                "social_community": true
+            },
+            "user_age_minimum": 0,
+            "user_age_maximum": 100,
+            "estimated_cost": 250.0
+        },
+        "original_llm_score": 3
+    },
+    {
+        "id": 34562,
+        "series_name": "Skin/nail scissor",
+        "original_description": "Can be used both for skin and nails.",
+        "photos": [
+            {
+                "item_id": 34562,
+                "photo_file_name": "34562.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/orig/34562.jpg",
+                "photo_type": "1"
+            },
+            {
+                "item_id": 34562,
+                "photo_file_name": "34562.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/lnet/34562.jpg",
+                "photo_type": "3"
+            },
+            {
+                "item_id": 34562,
+                "photo_file_name": "34562.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/snet/34562.jpg",
+                "photo_type": "4"
+            }
+        ],
+        "LLM_output": {
+            "detailed_description": "The item depicted is a versatile skin and nail scissor designed for ease of use and precision. The scissor features a comfortable grip handle, which is particularly useful for individuals with dexterity challenges. The blades are sharp and well-suited for trimming nails and skin carefully. The overall design is ergonomic, making it suitable for users who need assistance with personal grooming.",
+            "goals": [
+                "Promote personal autonomy and self-care through effective grooming tools.",
+                "Enhance overall well-being and self-esteem by maintaining personal hygiene.",
+                "Minimize the risk of health complications by ensuring proper skin and nail care."
+            ],
+            "healthcare_challenges": [
+                "Arthritis and other conditions affecting hand dexterity.",
+                "Visual impairments that make it difficult to see small areas for grooming.",
+                "Mobility issues that limit the ability to reach certain body parts for grooming."
+            ],
+            "goal_classification": {
+                "choice_and_control": false,
+                "daily_life": true,
+                "work": false,
+                "where_live": false,
+                "health_wellbeing": true,
+                "learning": false,
+                "relationships": false,
+                "social_community": false
+            },
+            "user_age_minimum": 5,
+            "user_age_maximum": 100,
+            "estimated_cost": 20.0
+        },
+        "original_llm_score": 3
+    },
+    {
+        "id": 36272,
+        "series_name": "Specs Switch for washing toilets",
+        "original_description": "A specs switch that can be mounted where citizens want it placed.\nThe specs switch is connected to the toilet and a light touch, initiated the personal set washing / drying program. An easily accessible and user-friendly solution. The specs switch diameter is 3.5 cm (35mm)",
+        "photos": [
+            {
+                "item_id": 36272,
+                "photo_file_name": "36272.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/orig/36272.jpg",
+                "photo_type": "1"
+            },
+            {
+                "item_id": 36272,
+                "photo_file_name": "36272.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/lnet/36272.jpg",
+                "photo_type": "3"
+            },
+            {
+                "item_id": 36272,
+                "photo_file_name": "36272.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/snet/36272.jpg",
+                "photo_type": "4"
+            }
+        ],
+        "LLM_output": {
+            "detailed_description": "The Specs Switch for washing toilets is an innovative assistive technology designed to enhance accessibility and convenience in personal hygiene. This switch can be mounted at a user's preferred location, making it easily accessible for individuals with limited mobility or dexterity. The switch is connected to the toilet and is activated with a light touch, initiating the user's pre-set washing and drying program. Its compact design, with a diameter of 3.5 cm (35mm), ensures that it does not occupy much space while providing a user-friendly solution for maintaining personal cleanliness.",
+            "goals": [
+                "To promote autonomy and dignity in personal hygiene",
+                "To foster independence in toilet and bidet feature use",
+                "To optimize comfort and convenience in personal hygiene practices",
+                "Promote good hygiene"
+            ],
+            "healthcare_challenges": [
+                "Mobility impairments that limit access to toilet controls",
+                "Dexterity issues that make it difficult to operate standard toilet controls",
+                "Conditions that require assistance with personal hygiene tasks"
+            ],
+            "goal_classification": {
+                "choice_and_control": false,
+                "daily_life": true,
+                "work": false,
+                "where_live": false,
+                "health_wellbeing": true,
+                "learning": false,
+                "relationships": false,
+                "social_community": false
+            },
+            "user_age_minimum": 10,
+            "user_age_maximum": 100,
+            "estimated_cost": 100.0
+        },
+        "original_llm_score": 3
+    },
+    {
+        "id": 13492,
+        "series_name": "SCHWEIZER Bright field magnifiers",
+        "original_description": "Bloclup placed on flat surfaces / reading material can be used with high additions, collects the light. Comes in a bag",
+        "photos": [
+            {
+                "item_id": 13492,
+                "photo_file_name": "13492.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/orig/13492.jpg",
+                "photo_type": "1"
+            },
+            {
+                "item_id": 13492,
+                "photo_file_name": "13492.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/lnet/13492.jpg",
+                "photo_type": "3"
+            },
+            {
+                "item_id": 13492,
+                "photo_file_name": "13492.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/snet/13492.jpg",
+                "photo_type": "4"
+            }
+        ],
+        "LLM_output": {
+            "detailed_description": "The SCHWEIZER Bright Field Magnifiers is a high-quality optical aid designed to enhance visibility and readability of small text or objects. This magnifier is particularly useful for individuals with visual impairments or those who require closer inspection of materials. The device is designed to be placed on flat surfaces, such as tables or desks, and can be used in conjunction with high additions or reading glasses. Its unique design collects ambient light, which improves the clarity and brightness of the magnified image. The magnifier comes with a protective bag for easy storage and transportation.",
+            "goals": [
+                "To promote visual accessibility for diverse tasks",
+                "To foster autonomy in daily activities",
+                "To facilitate engagement in detail-oriented hobbies and activities, including those of an occupational nature"
+            ],
+            "healthcare_challenges": [
+                "Age-related macular degeneration",
+                "Cataracts",
+                "Glaucoma",
+                "Diabetic retinopathy",
+                "General visual impairment",
+                "Farsightedness"
+            ],
+            "goal_classification": {
+                "choice_and_control": true,
+                "daily_life": true,
+                "work": true,
+                "where_live": false,
+                "health_wellbeing": true,
+                "learning": true,
+                "relationships": false,
+                "social_community": false
+            },
+            "user_age_minimum": 0,
+            "user_age_maximum": 100,
+            "estimated_cost": 50.0
+        },
+        "original_llm_score": 3
+    },
+    {
+        "id": 56176,
+        "series_name": "Sero Pressure Office Cushion",
+        "original_description": "Seat cushion that provides a good weight distribution. The egg-baked surface makes it comfortable to sit and distributes the weight well. Detachable coat that can be washed by hand. The pillow is suitable for both the office chair, wheelchair, at home or on the journey.\nThe pad measures 37 x 42 x 7.6 cm",
+        "photos": [
+            {
+                "item_id": 56176,
+                "photo_file_name": "56176.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/orig/56176.jpg",
+                "photo_type": "1"
+            },
+            {
+                "item_id": 56176,
+                "photo_file_name": "56176_2.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/orig/56176_2.jpg",
+                "photo_type": "1_2"
+            },
+            {
+                "item_id": 56176,
+                "photo_file_name": "56176_3.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/orig/56176_3.jpg",
+                "photo_type": "1_3"
+            },
+            {
+                "item_id": 56176,
+                "photo_file_name": "56176.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/lnet/56176.jpg",
+                "photo_type": "3"
+            },
+            {
+                "item_id": 56176,
+                "photo_file_name": "56176_2.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/lnet/56176_2.jpg",
+                "photo_type": "3_2"
+            },
+            {
+                "item_id": 56176,
+                "photo_file_name": "56176_3.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/lnet/56176_3.jpg",
+                "photo_type": "3_3"
+            },
+            {
+                "item_id": 56176,
+                "photo_file_name": "56176.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/snet/56176.jpg",
+                "photo_type": "4"
+            },
+            {
+                "item_id": 56176,
+                "photo_file_name": "56176_2.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/snet/56176_2.jpg",
+                "photo_type": "4_2"
+            },
+            {
+                "item_id": 56176,
+                "photo_file_name": "56176_3.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/snet/56176_3.jpg",
+                "photo_type": "4_3"
+            }
+        ],
+        "LLM_output": {
+            "detailed_description": "The Sero Pressure Office Cushion is a versatile and comfortable seat cushion designed to provide excellent weight distribution. Featuring an egg-crate surface, it offers superior comfort and support, making it ideal for use on office chairs, wheelchairs, or during travel. The cushion comes with a detachable cover that is machine-washable for easy cleaning and maintenance. Measuring 37 x 42 x 7.6 cm, it is suitable for a variety of seating environments, ensuring comfort and support throughout the day.",
+            "goals": [
+                "Promote optimal posture and alignment during extended periods of sitting",
+                "Maximize comfort and ergonomics in various settings",
+                "Minimize the risk of pressure-related injuries and discomfort",
+                "Enhance overall wellness and performance",
+                "Travel in comfort"
+            ],
+            "healthcare_challenges": [
+                "Pressure ulcers and skin integrity",
+                "Musculoskeletal conditions affecting the back and spine",
+                "Mobility limitations necessitating wheelchair use",
+                "Postural support requirements"
+            ],
+            "goal_classification": {
+                "choice_and_control": false,
+                "daily_life": true,
+                "work": true,
+                "where_live": false,
+                "health_wellbeing": true,
+                "learning": false,
+                "relationships": false,
+                "social_community": false
+            },
+            "user_age_minimum": 15,
+            "user_age_maximum": 100,
+            "estimated_cost": 50.0
+        },
+        "original_llm_score": 3
+    },
+    {
+        "id": 58894,
+        "series_name": "Immedia SatinSheet 2Dir. BaseSheet -DOUBLE -Satin Sheet for double bed",
+        "original_description": "SatinSheet 2 direction helps the partially self-reliant user to get in and out of bed as well as to turn and get to the edge of the bed. The edge of the sheet ensures that the user can sit stably on the edge of the bed and that the duvet does not slide over the edge.",
+        "photos": [
+            {
+                "item_id": 58894,
+                "photo_file_name": "58894.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/orig/58894.jpg",
+                "photo_type": "1"
+            },
+            {
+                "item_id": 58894,
+                "photo_file_name": "58894_2.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/orig/58894_2.jpg",
+                "photo_type": "1_2"
+            },
+            {
+                "item_id": 58894,
+                "photo_file_name": "58894.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/lnet/58894.jpg",
+                "photo_type": "3"
+            },
+            {
+                "item_id": 58894,
+                "photo_file_name": "58894_2.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/lnet/58894_2.jpg",
+                "photo_type": "3_2"
+            },
+            {
+                "item_id": 58894,
+                "photo_file_name": "58894.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/snet/58894.jpg",
+                "photo_type": "4"
+            },
+            {
+                "item_id": 58894,
+                "photo_file_name": "58894_2.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/snet/58894_2.jpg",
+                "photo_type": "4_2"
+            }
+        ],
+        "LLM_output": {
+            "detailed_description": "The Immedia SatinSheet 2Dir. BaseSheet is designed to assist partially self-reliant individuals in managing their bed mobility. This satin sheet for a double bed features a two-directional design that facilitates easier movement in and out of bed, as well as turning and reaching the edge of the bed. The edge of the sheet is specifically engineered to provide stability, ensuring that the user can sit securely on the edge of the bed. Additionally, the satin material offers a smooth surface that prevents the duvet from sliding, enhancing comfort and safety.",
+            "goals": [
+                "Promote autonomy in daily routines",
+                "Optimize mobility and safety",
+                "Maximize comfort and ease of movement in bed",
+                "Minimize the risk of falls and injuries"
+            ],
+            "healthcare_challenges": [
+                "Mobility impairments",
+                "Partial paralysis",
+                "Musculoskeletal disorders",
+                "Post-surgical recovery",
+                "Elderly individuals with reduced mobility"
+            ],
+            "goal_classification": {
+                "choice_and_control": false,
+                "daily_life": true,
+                "work": false,
+                "where_live": false,
+                "health_wellbeing": true,
+                "learning": false,
+                "relationships": false,
+                "social_community": false
+            },
+            "user_age_minimum": 15,
+            "user_age_maximum": 100,
+            "estimated_cost": 180.0
+        },
+        "original_llm_score": 3
+    },
+    {
+        "id": 54154,
+        "series_name": "RAM Mounts Universal X-Grip holder til 10 tommer tablets",
+        "original_description": "This holder ensures simple and safe mounting of your tablet or similar device.",
+        "photos": [
+            {
+                "item_id": 54154,
+                "photo_file_name": "54154.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/orig/54154.jpg",
+                "photo_type": "1"
+            },
+            {
+                "item_id": 54154,
+                "photo_file_name": "54154_2.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/orig/54154_2.jpg",
+                "photo_type": "1_2"
+            },
+            {
+                "item_id": 54154,
+                "photo_file_name": "54154.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/lnet/54154.jpg",
+                "photo_type": "3"
+            },
+            {
+                "item_id": 54154,
+                "photo_file_name": "54154_2.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/lnet/54154_2.jpg",
+                "photo_type": "3_2"
+            },
+            {
+                "item_id": 54154,
+                "photo_file_name": "54154.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/snet/54154.jpg",
+                "photo_type": "4"
+            },
+            {
+                "item_id": 54154,
+                "photo_file_name": "54154_2.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/snet/54154_2.jpg",
+                "photo_type": "4_2"
+            }
+        ],
+        "LLM_output": {
+            "detailed_description": "The RAM Mounts Universal X-Grip holder is designed to securely mount tablets ranging from 7 to 10 inches. This robust holder features a patented design with four spring-loaded legs that grip the device firmly, ensuring it stays in place even during rough conditions. The holder is compatible with various RAM mounting systems, allowing for versatile placement in vehicles, on desks, or other surfaces. Its durable construction and adjustable angles make it suitable for both personal and professional use, providing convenience and accessibility for users on the go.",
+            "goals": [
+                "Promote independence and accessibility through enhanced mobility of electronic information technology devices",
+                "Position tablets for use in a wheelchair, bed or at a desk",
+                "Enable hands-free tablet operation in diverse settings for improved productivity"
+            ],
+            "healthcare_challenges": [
+                "Mobility impairments that affect the ability to hold or access devices",
+                "Visual impairments that require larger, more accessible screens",
+                "Cognitive impairments that benefit from stable and easily accessible technology",
+                "Nonverbal user of Augmentative and Alternative Communication devices"
+            ],
+            "goal_classification": {
+                "choice_and_control": true,
+                "daily_life": true,
+                "work": true,
+                "where_live": false,
+                "health_wellbeing": false,
+                "learning": true,
+                "relationships": true,
+                "social_community": false
+            },
+            "user_age_minimum": 15,
+            "user_age_maximum": 100,
+            "estimated_cost": 50.0
+        },
+        "original_llm_score": 3
+    },
+    {
+        "id": 42419,
+        "series_name": "DressOn - Jacket - With sliding brackets",
+        "original_description": "DressOn with sliding brackets. Width 63.5 cm. Length: 8 cm. Height of the sliding layer: 101 cm. Material: Stainless steel.",
+        "photos": [
+            {
+                "item_id": 42419,
+                "photo_file_name": "42419.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/orig/42419.jpg",
+                "photo_type": "1"
+            },
+            {
+                "item_id": 42419,
+                "photo_file_name": "42419.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/lnet/42419.jpg",
+                "photo_type": "3"
+            },
+            {
+                "item_id": 42419,
+                "photo_file_name": "42419.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/snet/42419.jpg",
+                "photo_type": "4"
+            }
+        ],
+        "LLM_output": {
+            "detailed_description": "The DressOn - Jacket - With Sliding Brackets is a versatile and sturdy assistive device designed to aid individuals in hanging and accessing their clothing with ease. Constructed primarily from stainless steel, this device features a robust frame with sliding brackets that allow for adjustable height, accommodating users of varying statures. The width of the device is 63.5 cm, providing ample space for hanging multiple garments. The length is 8 cm, and the height of the sliding layer can be adjusted up to 101 cm, ensuring that it can be used by individuals ranging from children to adults. The stainless steel construction ensures durability and resistance to corrosion, making it a long-lasting solution for any household.",
+            "goals": [
+                "To promote autonomy in daily dressing activities",
+                "To minimize the need for external assistance in managing clothing",
+                "To facilitate mobility and accessibility within the home environment",
+                "To optimize organizational skills and living space management"
+            ],
+            "healthcare_challenges": [
+                "Mobility impairments that affect the ability to reach high wardrobes",
+                "Arthritis and other conditions that limit hand dexterity",
+                "Visual impairments that require easily identifiable and accessible clothing storage",
+                "Cognitive impairments that necessitate simple and intuitive clothing management"
+            ],
+            "goal_classification": {
+                "choice_and_control": false,
+                "daily_life": true,
+                "work": false,
+                "where_live": true,
+                "health_wellbeing": true,
+                "learning": false,
+                "relationships": false,
+                "social_community": false
+            },
+            "user_age_minimum": 5,
+            "user_age_maximum": 100,
+            "estimated_cost": 250.0
+        },
+        "original_llm_score": 3
+    },
+    {
+        "id": 72347,
+        "series_name": "Remote Videocall",
+        "original_description": "The municipalities preferred choice for demented and cognitively weak citizens. Only solution remotely operated. The markets simplest operation. Video calls - lifts the handset itself. Digital Calendar, Photo Sharing, Messaging, Clock display, date, time of day, and daily chores. All relatives have free admission. Plug & Play with SIMCard.",
+        "photos": [
+            {
+                "item_id": 72347,
+                "photo_file_name": "72347.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/orig/72347.jpg",
+                "photo_type": "1"
+            },
+            {
+                "item_id": 72347,
+                "photo_file_name": "72347_2.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/orig/72347_2.jpg",
+                "photo_type": "1_2"
+            },
+            {
+                "item_id": 72347,
+                "photo_file_name": "72347_3.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/orig/72347_3.jpg",
+                "photo_type": "1_3"
+            },
+            {
+                "item_id": 72347,
+                "photo_file_name": "72347_4.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/orig/72347_4.jpg",
+                "photo_type": "1_4"
+            },
+            {
+                "item_id": 72347,
+                "photo_file_name": "72347.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/lnet/72347.jpg",
+                "photo_type": "3"
+            },
+            {
+                "item_id": 72347,
+                "photo_file_name": "72347_2.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/lnet/72347_2.jpg",
+                "photo_type": "3_2"
+            },
+            {
+                "item_id": 72347,
+                "photo_file_name": "72347_3.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/lnet/72347_3.jpg",
+                "photo_type": "3_3"
+            },
+            {
+                "item_id": 72347,
+                "photo_file_name": "72347_4.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/lnet/72347_4.jpg",
+                "photo_type": "3_4"
+            },
+            {
+                "item_id": 72347,
+                "photo_file_name": "72347.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/snet/72347.jpg",
+                "photo_type": "4"
+            },
+            {
+                "item_id": 72347,
+                "photo_file_name": "72347_2.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/snet/72347_2.jpg",
+                "photo_type": "4_2"
+            },
+            {
+                "item_id": 72347,
+                "photo_file_name": "72347_3.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/snet/72347_3.jpg",
+                "photo_type": "4_3"
+            },
+            {
+                "item_id": 72347,
+                "photo_file_name": "72347_4.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/snet/72347_4.jpg",
+                "photo_type": "4_4"
+            }
+        ],
+        "LLM_output": {
+            "detailed_description": "The Remote Videocall device is designed to facilitate communication and engagement for individuals with dementia and cognitive impairments. This innovative solution allows users to make video calls with ease, featuring a simple and intuitive interface that can be operated with minimal assistance. Key features include a digital calendar, photo sharing, messaging, and a clock display that shows the date, time of day, and daily chores. The device supports unlimited free access for all relatives, making it an ideal tool for maintaining connections with loved ones. It operates on a plug-and-play basis with a SIM card, ensuring seamless connectivity and ease of use.",
+            "goals": [
+                "Foster meaningful connections with family and friends",
+                "Promote engagement in daily activities and routines to enhance overall well-being",
+                "Improve quality of life through regular communication with loved ones",
+                "Empower independence and self-confidence through accessible technology",
+                "Ensure safety with video call check-ins"
+            ],
+            "healthcare_challenges": [
+                "Dementia and cognitive impairments",
+                "Social isolation and loneliness",
+                "Difficulty using complex technology",
+                "Trouble make daily routines and schedules"
+            ],
+            "goal_classification": {
+                "choice_and_control": true,
+                "daily_life": true,
+                "work": false,
+                "where_live": true,
+                "health_wellbeing": true,
+                "learning": false,
+                "relationships": true,
+                "social_community": true
+            },
+            "user_age_minimum": 55,
+            "user_age_maximum": 100,
+            "estimated_cost": 500.0
+        },
+        "original_llm_score": 3
+    },
+    {
+        "id": 48356,
+        "series_name": "Pelvic Cradle",
+        "original_description": "The flexible adjustment in the back section can encourage \na posteriorly tilted pelvis into neutral alignment, and the overall design prevents users sliding forward. This gives unsurpassed proximal \npelvic positioning and support for more complex body sha",
+        "photos": [
+            {
+                "item_id": 48356,
+                "photo_file_name": "48356.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/orig/48356.jpg",
+                "photo_type": "1"
+            },
+            {
+                "item_id": 48356,
+                "photo_file_name": "48356_2.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/orig/48356_2.jpg",
+                "photo_type": "1_2"
+            },
+            {
+                "item_id": 48356,
+                "photo_file_name": "48356.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/lnet/48356.jpg",
+                "photo_type": "3"
+            },
+            {
+                "item_id": 48356,
+                "photo_file_name": "48356_2.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/lnet/48356_2.jpg",
+                "photo_type": "3_2"
+            },
+            {
+                "item_id": 48356,
+                "photo_file_name": "48356.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/snet/48356.jpg",
+                "photo_type": "4"
+            },
+            {
+                "item_id": 48356,
+                "photo_file_name": "48356_2.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/snet/48356_2.jpg",
+                "photo_type": "4_2"
+            }
+        ],
+        "LLM_output": {
+            "detailed_description": "The Pelvic Cradle is a specialized seating system designed to provide superior pelvic support and positioning. It features a flexible adjustment mechanism in the back section that encourages a posteriorly tilted pelvis into a neutral alignment, which is crucial for maintaining proper posture and reducing the risk of pressure ulcers. The overall design prevents users from sliding forward, ensuring that the pelvis remains in the optimal position. This cradle is particularly beneficial for individuals with complex body shapes or those who require additional support to maintain proper pelvic alignment.",
+            "goals": [
+                "Promote optimal posture and alignment for overall well-being",
+                "Minimize risk of pressure-related injuries and complications",
+                "Enhance functional mobility and independence through improved pelvic positioning"
+            ],
+            "healthcare_challenges": [
+                "Spinal cord injuries",
+                "Cerebral palsy",
+                "Multiple sclerosis",
+                "Muscular dystrophy",
+                "Severe scoliosis",
+                "Generalized weakness and reduced trunk control"
+            ],
+            "goal_classification": {
+                "choice_and_control": false,
+                "daily_life": true,
+                "work": false,
+                "where_live": false,
+                "health_wellbeing": true,
+                "learning": false,
+                "relationships": false,
+                "social_community": false
+            },
+            "user_age_minimum": 15,
+            "user_age_maximum": 100,
+            "estimated_cost": 100.0
+        },
+        "original_llm_score": 3
+    },
+    {
+        "id": 15256,
+        "series_name": "Etac Tray for Cross and Prio wheelchairs with std. Cross arm supports",
+        "original_description": "The tray for the Cross and Prio wheelchairs is transparent and can be mounted on long standard Cross armrests.",
+        "photos": [
+            {
+                "item_id": 15256,
+                "photo_file_name": "15256.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/orig/15256.jpg",
+                "photo_type": "1"
+            },
+            {
+                "item_id": 15256,
+                "photo_file_name": "15256_2.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/orig/15256_2.jpg",
+                "photo_type": "1_2"
+            },
+            {
+                "item_id": 15256,
+                "photo_file_name": "15256_3.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/orig/15256_3.jpg",
+                "photo_type": "1_3"
+            },
+            {
+                "item_id": 15256,
+                "photo_file_name": "15256_4.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/orig/15256_4.jpg",
+                "photo_type": "1_4"
+            },
+            {
+                "item_id": 15256,
+                "photo_file_name": "15256.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/lnet/15256.jpg",
+                "photo_type": "3"
+            },
+            {
+                "item_id": 15256,
+                "photo_file_name": "15256_2.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/lnet/15256_2.jpg",
+                "photo_type": "3_2"
+            },
+            {
+                "item_id": 15256,
+                "photo_file_name": "15256_3.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/lnet/15256_3.jpg",
+                "photo_type": "3_3"
+            },
+            {
+                "item_id": 15256,
+                "photo_file_name": "15256_4.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/lnet/15256_4.jpg",
+                "photo_type": "3_4"
+            },
+            {
+                "item_id": 15256,
+                "photo_file_name": "15256.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/snet/15256.jpg",
+                "photo_type": "4"
+            },
+            {
+                "item_id": 15256,
+                "photo_file_name": "15256_2.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/snet/15256_2.jpg",
+                "photo_type": "4_2"
+            },
+            {
+                "item_id": 15256,
+                "photo_file_name": "15256_3.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/snet/15256_3.jpg",
+                "photo_type": "4_3"
+            },
+            {
+                "item_id": 15256,
+                "photo_file_name": "15256_4.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/snet/15256_4.jpg",
+                "photo_type": "4_4"
+            }
+        ],
+        "LLM_output": {
+            "detailed_description": "The Etac Tray is designed specifically for Cross and Prio wheelchairs and is compatible with standard Cross armrests. The tray is transparent, allowing for easy visibility and cleaning. It provides a convenient surface for holding items such as meals, books, or electronic devices, making daily activities more accessible and comfortable for wheelchair users. The tray is securely mounted on the armrests, ensuring stability and safety during use.",
+            "goals": [
+                "Promote autonomy in daily tasks",
+                "Optimize mobility and accessibility",
+                "Encourage social and recreational engagement",
+                "Enhance overall well-being through improved convenience"
+            ],
+            "healthcare_challenges": [
+                "Mobility impairments",
+                "Physical disabilities",
+                "Limited dexterity or hand function",
+                "Spinal cord injuries",
+                "Stroke rehabilitation",
+                "Multiple sclerosis"
+            ],
+            "goal_classification": {
+                "choice_and_control": false,
+                "daily_life": true,
+                "work": true,
+                "where_live": false,
+                "health_wellbeing": true,
+                "learning": true,
+                "relationships": true,
+                "social_community": true
+            },
+            "user_age_minimum": 15,
+            "user_age_maximum": 100,
+            "estimated_cost": 150.0
+        }
+    },
+    {
+        "id": 65540,
+        "series_name": "Yellow badge with needle and english text",
+        "original_description": "Yellow badge with needle and english text:\nI am Deaf and Visually Impaired.",
+        "photos": [
+            {
+                "item_id": 65540,
+                "photo_file_name": "65540.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/orig/65540.jpg",
+                "photo_type": "1"
+            },
+            {
+                "item_id": 65540,
+                "photo_file_name": "65540.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/lnet/65540.jpg",
+                "photo_type": "3"
+            },
+            {
+                "item_id": 65540,
+                "photo_file_name": "65540.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/snet/65540.jpg",
+                "photo_type": "4"
+            }
+        ],
+        "LLM_output": {
+            "detailed_description": "This item is a bright yellow button badge with a needle attachment on the back, designed to be worn on clothing or accessories. The badge features bold, black text that reads 'I am Deaf and Visually Impaired.' This badge serves as a visual indicator of the wearer's sensory impairments, helping others to recognize and accommodate their needs. The badge is small and lightweight, making it easy to attach to various items such as bags, jackets, or lanyards.",
+            "goals": [
+                "To promote public awareness and understanding of sensory impairments.",
+                "To foster effective and respectful communication and interaction with others.",
+                "To advocate for inclusivity and accessibility in diverse settings.",
+                "To prioritize personal safety and well-being through clear communication of specific needs."
+            ],
+            "healthcare_challenges": [
+                "Deafness, which can impact the ability to hear and communicate verbally.",
+                "Visual impairment, which can affect vision and the ability to see clearly.",
+                "Communication barriers, which can hinder effective interaction with others.",
+                "Need for assistive devices and services to support daily activities and interactions."
+            ],
+            "goal_classification": {
+                "choice_and_control": false,
+                "daily_life": true,
+                "work": true,
+                "where_live": false,
+                "health_wellbeing": true,
+                "learning": true,
+                "relationships": true,
+                "social_community": true
+            },
+            "user_age_minimum": 15,
+            "user_age_maximum": 100,
+            "estimated_cost": 2.99
+        }
+    },
+    {
+        "id": 73123,
+        "series_name": "HipGuard - Airbag hip protector",
+        "original_description": "HipGuard is an airbag belt that protects against hip fractures in a fall accident. HipGuard is placed around the hips and when a fall is detected, an airbag will automatically inflate, providing optimal protection for your hip. HipGuard provides great freedom of movement and is easy to use.",
+        "photos": [
+            {
+                "item_id": 73123,
+                "photo_file_name": "73123.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/orig/73123.jpg",
+                "photo_type": "1"
+            },
+            {
+                "item_id": 73123,
+                "photo_file_name": "73123_2.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/orig/73123_2.jpg",
+                "photo_type": "1_2"
+            },
+            {
+                "item_id": 73123,
+                "photo_file_name": "73123_3.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/orig/73123_3.jpg",
+                "photo_type": "1_3"
+            },
+            {
+                "item_id": 73123,
+                "photo_file_name": "73123.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/lnet/73123.jpg",
+                "photo_type": "3"
+            },
+            {
+                "item_id": 73123,
+                "photo_file_name": "73123_2.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/lnet/73123_2.jpg",
+                "photo_type": "3_2"
+            },
+            {
+                "item_id": 73123,
+                "photo_file_name": "73123_3.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/lnet/73123_3.jpg",
+                "photo_type": "3_3"
+            },
+            {
+                "item_id": 73123,
+                "photo_file_name": "73123.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/snet/73123.jpg",
+                "photo_type": "4"
+            },
+            {
+                "item_id": 73123,
+                "photo_file_name": "73123_2.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/snet/73123_2.jpg",
+                "photo_type": "4_2"
+            },
+            {
+                "item_id": 73123,
+                "photo_file_name": "73123_3.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/snet/73123_3.jpg",
+                "photo_type": "4_3"
+            }
+        ],
+        "LLM_output": {
+            "detailed_description": "The HipGuard is an innovative airbag hip protector designed to enhance safety and provide peace of mind for individuals at risk of hip fractures due to falls. This device is worn around the hips and features advanced fall detection technology. When a fall is detected, the HipGuard automatically inflates an airbag, offering optimal protection to the hips. The belt is designed to provide great freedom of movement while ensuring comfort and ease of use. It is particularly useful for elderly individuals or those with mobility challenges who are more susceptible to falls.",
+            "goals": [
+                "Promote autonomy and mobility for an active lifestyle.",
+                "Minimize injury risk from falls for improved well-being.",
+                "Foster safety and self-assurance during daily activities."
+            ],
+            "healthcare_challenges": [
+                "Falls and hip fractures in the elderly or individuals with mobility impairments.",
+                "Preventing injuries from accidental falls in high-risk populations.",
+                "Managing the risk of hip fractures in individuals with balance issues or weak bones."
+            ],
+            "goal_classification": {
+                "choice_and_control": false,
+                "daily_life": true,
+                "work": false,
+                "where_live": false,
+                "health_wellbeing": true,
+                "learning": false,
+                "relationships": false,
+                "social_community": false
+            },
+            "user_age_minimum": 55,
+            "user_age_maximum": 100,
+            "estimated_cost": 250.0
+        }
+    },
+    {
+        "id": 48039,
+        "series_name": "SCHWEIZER IV Proshield Fit-Over",
+        "original_description": "Filter goggles, Fit-Over with PC filter glass in black matt polycarbonate spectacle frame, size 63-12. Designed for use outside on own existing glasses. Comes in C1, 450, C500 and 511 in combination with and without Gray 60. Block the dangerous short-wave blue light.",
+        "photos": [
+            {
+                "item_id": 48039,
+                "photo_file_name": "48039.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/orig/48039.jpg",
+                "photo_type": "1"
+            },
+            {
+                "item_id": 48039,
+                "photo_file_name": "48039.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/lnet/48039.jpg",
+                "photo_type": "3"
+            },
+            {
+                "item_id": 48039,
+                "photo_file_name": "48039.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/snet/48039.jpg",
+                "photo_type": "4"
+            }
+        ],
+        "LLM_output": {
+            "detailed_description": "The SCHWEIZER IV Proshield Fit-Over are advanced filter goggles designed to be worn over existing glasses. Crafted with a black matt polycarbonate spectacle frame, these goggles feature PC filter glass that effectively blocks harmful short-wave blue light. Available in various filter categories including C1, 450, C500, and 511, these goggles are ideal for outdoor use and provide an additional layer of protection for the eyes. The design ensures comfort and compatibility with most existing eyewear, making them a versatile choice for individuals seeking enhanced eye protection.",
+            "goals": [
+                "To optimize visual experience and safety in diverse environments.",
+                "To safeguard eyes from detrimental light spectrums and promote long-term eye health.",
+                "To ensure unobstructed vision while accommodating existing eyewear during various activities."
+            ],
+            "healthcare_challenges": [
+                "Addressing eye discomfort due to intense light and glare.",
+                "Mitigating eye strain and fatigue during extended outdoor activities.",
+                "Managing conditions such as photophobia or light sensitivity.",
+                "Providing supplementary protection for individuals with pre-existing eye conditions."
+            ],
+            "goal_classification": {
+                "choice_and_control": false,
+                "daily_life": true,
+                "work": false,
+                "where_live": false,
+                "health_wellbeing": true,
+                "learning": false,
+                "relationships": false,
+                "social_community": false
+            },
+            "user_age_minimum": 15,
+            "user_age_maximum": 100,
+            "estimated_cost": 50.0
+        }
+    },
+    {
+        "id": 33993,
+        "series_name": "Grib for pen",
+        "original_description": "3-edged plastic grip that fits pencils and standard pens. Finger-shaped grip. Made of soft plastic. Ass. colors. Package of 3.",
+        "photos": [
+            {
+                "item_id": 33993,
+                "photo_file_name": "33993.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/orig/33993.jpg",
+                "photo_type": "1"
+            },
+            {
+                "item_id": 33993,
+                "photo_file_name": "33993.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/lnet/33993.jpg",
+                "photo_type": "3"
+            },
+            {
+                "item_id": 33993,
+                "photo_file_name": "33993.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/snet/33993.jpg",
+                "photo_type": "4"
+            }
+        ],
+        "LLM_output": {
+            "detailed_description": "The item is a 3-edged plastic grip designed to fit pencils and standard pens. It has a finger-shaped design made of soft plastic, which provides a comfortable and secure grip. The grip is available in various colors and comes in a package of three. This assistive technology is particularly useful for individuals who may have difficulty holding writing instruments due to conditions affecting their grip or hand strength.",
+            "goals": [
+                "To optimize writing experience and minimize physical strain",
+                "To promote fine motor skills development and precision",
+                "To foster autonomy in daily activities involving writing and signing"
+            ],
+            "healthcare_challenges": [
+                "Arthritis and other hand conditions affecting grip",
+                "Dyspraxia and other conditions affecting fine motor skills",
+                "Neurological conditions such as Parkinson's disease or multiple sclerosis"
+            ],
+            "goal_classification": {
+                "choice_and_control": false,
+                "daily_life": true,
+                "work": true,
+                "where_live": false,
+                "health_wellbeing": true,
+                "learning": true,
+                "relationships": true,
+                "social_community": false
+            },
+            "user_age_minimum": 5,
+            "user_age_maximum": 100,
+            "estimated_cost": 5.0
+        }
+    },
+    {
+        "id": 39002,
+        "series_name": "Ball foot protector",
+        "original_description": "An elastic protection which provides protection and cushioning for problems and pain during ball of the foot.\nWith a filling of gel, which gives a very good shock-absorbing effect.\nElastic material which makes it suitable for multiple sizes.\nCan be used on both right and left foot.\nProtective, relieve pain, moisturize the skin, washable.",
+        "photos": [
+            {
+                "item_id": 39002,
+                "photo_file_name": "39002.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/orig/39002.jpg",
+                "photo_type": "1"
+            },
+            {
+                "item_id": 39002,
+                "photo_file_name": "39002.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/lnet/39002.jpg",
+                "photo_type": "3"
+            },
+            {
+                "item_id": 39002,
+                "photo_file_name": "39002.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/snet/39002.jpg",
+                "photo_type": "4"
+            }
+        ],
+        "LLM_output": {
+            "detailed_description": "The Ball Foot Protector is an innovative assistive technology designed to provide relief and protection for individuals experiencing discomfort or pain in the ball of the foot. This device features an elastic material that ensures a comfortable and secure fit for various foot sizes, making it versatile for both the right and left foot. The gel filling offers excellent shock absorption, reducing the impact on the ball of the foot and providing cushioning support. Additionally, the protector helps to moisturize the skin, ensuring that the foot remains healthy and comfortable. It is washable, making it easy to clean and maintain hygiene. Ideal for those suffering from conditions such as metatarsalgia or other foot-related issues, this protector aims to enhance mobility and comfort.",
+            "goals": [
+                "To promote pain-free physical activity",
+                "To optimize foot health and well-being",
+                "To facilitate independent living through improved mobility"
+            ],
+            "healthcare_challenges": [
+                "Metatarsalgia",
+                "Foot pain and discomfort",
+                "Diabetic foot ulcers",
+                "Arthritis affecting the feet"
+            ],
+            "goal_classification": {
+                "choice_and_control": false,
+                "daily_life": true,
+                "work": false,
+                "where_live": false,
+                "health_wellbeing": true,
+                "learning": false,
+                "relationships": false,
+                "social_community": false
+            },
+            "user_age_minimum": 15,
+            "user_age_maximum": 100,
+            "estimated_cost": 25.0
+        }
+    },
+    {
+        "id": 72392,
+        "series_name": "Skinnebensbind SS-1",
+        "original_description": "et skinnebensbind designet til at reducere smerter ved skinnebensbet\u00e6ndelse. Skinnebensbindet har en \u00e5bent design, som sikre en korrekt pasform. Materialet er tyndt og \u00e5ndbart og mindsker dermed ubehag, f.eks. ved sport.\n",
+        "photos": [
+            {
+                "item_id": 72392,
+                "photo_file_name": "72392.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/orig/72392.jpg",
+                "photo_type": "1"
+            },
+            {
+                "item_id": 72392,
+                "photo_file_name": "72392_2.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/orig/72392_2.jpg",
+                "photo_type": "1_2"
+            },
+            {
+                "item_id": 72392,
+                "photo_file_name": "72392_3.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/orig/72392_3.jpg",
+                "photo_type": "1_3"
+            },
+            {
+                "item_id": 72392,
+                "photo_file_name": "72392_4.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/orig/72392_4.jpg",
+                "photo_type": "1_4"
+            },
+            {
+                "item_id": 72392,
+                "photo_file_name": "72392.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/lnet/72392.jpg",
+                "photo_type": "3"
+            },
+            {
+                "item_id": 72392,
+                "photo_file_name": "72392_2.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/lnet/72392_2.jpg",
+                "photo_type": "3_2"
+            },
+            {
+                "item_id": 72392,
+                "photo_file_name": "72392_3.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/lnet/72392_3.jpg",
+                "photo_type": "3_3"
+            },
+            {
+                "item_id": 72392,
+                "photo_file_name": "72392_4.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/lnet/72392_4.jpg",
+                "photo_type": "3_4"
+            },
+            {
+                "item_id": 72392,
+                "photo_file_name": "72392.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/snet/72392.jpg",
+                "photo_type": "4"
+            },
+            {
+                "item_id": 72392,
+                "photo_file_name": "72392_2.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/snet/72392_2.jpg",
+                "photo_type": "4_2"
+            },
+            {
+                "item_id": 72392,
+                "photo_file_name": "72392_3.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/snet/72392_3.jpg",
+                "photo_type": "4_3"
+            },
+            {
+                "item_id": 72392,
+                "photo_file_name": "72392_4.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/snet/72392_4.jpg",
+                "photo_type": "4_4"
+            }
+        ],
+        "LLM_output": {
+            "detailed_description": "The Skinnebensbind SS-1 is a specialized ankle support designed to alleviate pain associated with ankle inflammation. Featuring an open design, it ensures a proper fit while providing targeted support to the ankle area. Constructed from thin, breathable materials, it minimizes discomfort, making it particularly suitable for use during physical activities and sports. This support is designed to offer stability and reduce the risk of further injury, making it an essential tool for individuals suffering from ankle issues.",
+            "goals": [
+                "Promote pain-free physical activity",
+                "Enhance confidence in sports and exercise",
+                "Minimize the risk of recurring ankle injuries",
+                "Optimize mobility and comfort"
+            ],
+            "healthcare_challenges": [
+                "Ankle inflammation",
+                "Ankle sprains",
+                "Chronic ankle instability",
+                "Post-operative ankle recovery",
+                "Arthritis affecting the ankle joint"
+            ],
+            "goal_classification": {
+                "choice_and_control": false,
+                "daily_life": true,
+                "work": false,
+                "where_live": false,
+                "health_wellbeing": true,
+                "learning": false,
+                "relationships": false,
+                "social_community": false
+            },
+            "user_age_minimum": 15,
+            "user_age_maximum": 100,
+            "estimated_cost": 50.0
+        }
+    },
+    {
+        "id": 72942,
+        "series_name": "Tricolor",
+        "original_description": "The innovative design of the TriColor Table Lamp is perfect for desks, countertops, end tables and anywhere else you need a little more light.\nthe large control buttons on the lamp base make this model the optimal choice for the low vision people.",
+        "photos": [
+            {
+                "item_id": 72942,
+                "photo_file_name": "72942.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/orig/72942.jpg",
+                "photo_type": "1"
+            },
+            {
+                "item_id": 72942,
+                "photo_file_name": "72942_2.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/orig/72942_2.jpg",
+                "photo_type": "1_2"
+            },
+            {
+                "item_id": 72942,
+                "photo_file_name": "72942_3.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/orig/72942_3.jpg",
+                "photo_type": "1_3"
+            },
+            {
+                "item_id": 72942,
+                "photo_file_name": "72942_4.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/orig/72942_4.jpg",
+                "photo_type": "1_4"
+            },
+            {
+                "item_id": 72942,
+                "photo_file_name": "72942.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/lnet/72942.jpg",
+                "photo_type": "3"
+            },
+            {
+                "item_id": 72942,
+                "photo_file_name": "72942_2.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/lnet/72942_2.jpg",
+                "photo_type": "3_2"
+            },
+            {
+                "item_id": 72942,
+                "photo_file_name": "72942_3.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/lnet/72942_3.jpg",
+                "photo_type": "3_3"
+            },
+            {
+                "item_id": 72942,
+                "photo_file_name": "72942_4.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/lnet/72942_4.jpg",
+                "photo_type": "3_4"
+            },
+            {
+                "item_id": 72942,
+                "photo_file_name": "72942.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/snet/72942.jpg",
+                "photo_type": "4"
+            },
+            {
+                "item_id": 72942,
+                "photo_file_name": "72942_2.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/snet/72942_2.jpg",
+                "photo_type": "4_2"
+            },
+            {
+                "item_id": 72942,
+                "photo_file_name": "72942_3.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/snet/72942_3.jpg",
+                "photo_type": "4_3"
+            },
+            {
+                "item_id": 72942,
+                "photo_file_name": "72942_4.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/snet/72942_4.jpg",
+                "photo_type": "4_4"
+            }
+        ],
+        "LLM_output": {
+            "detailed_description": "The TriColor Table Lamp is a versatile and user-friendly lighting solution designed for various surfaces such as desks, countertops, and end tables. Its innovative design features a long, adjustable arm that allows for precise positioning to meet specific lighting needs. The lamp includes large control buttons on its base, making it an optimal choice for individuals with low vision or motor impairments. The lamp offers color options to suit different tasks and preferences, enhancing both functionality and user experience.",
+            "goals": [
+                "To optimize visual experience and support daily activities",
+                "To promote autonomy in managing personal lighting needs",
+                "To enhance overall performance and concentration in work or study environments"
+            ],
+            "healthcare_challenges": [
+                "Low vision or visual impairments",
+                "Motor impairments affecting fine motor skills",
+                "Age-related visual decline"
+            ],
+            "goal_classification": {
+                "choice_and_control": true,
+                "daily_life": true,
+                "work": true,
+                "where_live": false,
+                "health_wellbeing": true,
+                "learning": true,
+                "relationships": false,
+                "social_community": false
+            },
+            "user_age_minimum": 15,
+            "user_age_maximum": 100,
+            "estimated_cost": 50.0
+        }
+    },
+    {
+        "id": 72403,
+        "series_name": "Tr\u00e6ningsbold Refit Basic",
+        "original_description": "Tr\u00e6ningsbold fra svenske Refit i h\u00f8j kvalitet. Fremstillet af bl\u00f8d PVC og uden ftalaterne (syntetiske stoffer). Designet med et anti-burst-system, som sikrer bolden kan holde til stort pres. Kan bestilles i enten 60 cm eller 70 cm. Perfekt til hjemmetr\u00e6ning eller som stol p\u00e5 kontoret.",
+        "photos": [
+            {
+                "item_id": 72403,
+                "photo_file_name": "72403.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/orig/72403.jpg",
+                "photo_type": "1"
+            },
+            {
+                "item_id": 72403,
+                "photo_file_name": "72403_2.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/orig/72403_2.jpg",
+                "photo_type": "1_2"
+            },
+            {
+                "item_id": 72403,
+                "photo_file_name": "72403.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/lnet/72403.jpg",
+                "photo_type": "3"
+            },
+            {
+                "item_id": 72403,
+                "photo_file_name": "72403_2.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/lnet/72403_2.jpg",
+                "photo_type": "3_2"
+            },
+            {
+                "item_id": 72403,
+                "photo_file_name": "72403.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/snet/72403.jpg",
+                "photo_type": "4"
+            },
+            {
+                "item_id": 72403,
+                "photo_file_name": "72403_2.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/snet/72403_2.jpg",
+                "photo_type": "4_2"
+            }
+        ],
+        "LLM_output": {
+            "detailed_description": "The Tr\u00e6ningsbold Refit Basic is a high-quality exercise ball designed for various fitness and physical therapy purposes. Made from soft PVC without phthalates, it ensures a safe and eco-friendly workout experience. The ball features an anti-burst system that guarantees it can withstand significant pressure, making it reliable for intense exercises. Available in two sizes, 60 cm and 70 cm, it is suitable for both home workouts and as an office chair to improve posture and comfort. Its durable construction and versatile use make it an excellent addition to any fitness routine or workspace.",
+            "goals": [
+                "Promote overall physical wellness and strength",
+                "Enhance mobility and stability",
+                "Foster a healthy lifestyle through consistent exercise",
+                "Optimize ergonomics and comfort during work",
+                "Strengthen core muscles for better functionality"
+            ],
+            "healthcare_challenges": [
+                "Back pain and posture issues",
+                "Musculoskeletal disorders",
+                "Physical rehabilitation and therapy",
+                "Obesity and weight management",
+                "General fitness and wellness"
+            ],
+            "goal_classification": {
+                "choice_and_control": false,
+                "daily_life": false,
+                "work": true,
+                "where_live": false,
+                "health_wellbeing": true,
+                "learning": false,
+                "relationships": false,
+                "social_community": false
+            },
+            "user_age_minimum": 15,
+            "user_age_maximum": 100,
+            "estimated_cost": 30.0
+        }
+    },
+    {
+        "id": 40606,
+        "series_name": "Cotton Velvet Cover for SAFE Med Ear Pillow no. 115",
+        "original_description": "Cotton velvet cover for SAFE Med Ear Pillow is optimal skin friendly, very soft and elastic in light beige color. \n80 percent Cotton 20 percent Polyester\nWash at 60 C no shrinkage\nWash at 95 C up to 5 percent shrinkage\nTumble dry at medium temperature\n",
+        "photos": [
+            {
+                "item_id": 40606,
+                "photo_file_name": "40606.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/orig/40606.jpg",
+                "photo_type": "1"
+            },
+            {
+                "item_id": 40606,
+                "photo_file_name": "40606.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/lnet/40606.jpg",
+                "photo_type": "3"
+            },
+            {
+                "item_id": 40606,
+                "photo_file_name": "40606.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/snet/40606.jpg",
+                "photo_type": "4"
+            }
+        ],
+        "LLM_output": {
+            "detailed_description": "The Cotton Velvet Cover for SAFE Med Ear Pillow no. 115 is a high-quality, skin-friendly pillow cover designed for comfort and durability. Made from a blend of 80% cotton and 20% polyester, this cover is incredibly soft and elastic, ensuring a comfortable sleeping experience. The light beige color adds a touch of elegance to any bedroom decor. The cover is designed to fit the SAFE Med Ear Pillow perfectly, providing support and comfort for users. It is machine-washable, with instructions to wash at 60\u00b0C for no shrinkage or up to 95\u00b0C for up to 5% shrinkage. Tumble drying at a medium temperature is also recommended for easy maintenance.",
+            "goals": [
+                "To optimize sleep quality and comfort",
+                "To promote a clean and hygienic sleeping environment",
+                "To foster overall well-being through improved rest"
+            ],
+            "healthcare_challenges": [
+                "Sleep disorders",
+                "Ear discomfort or pain",
+                "Allergies or skin sensitivities"
+            ],
+            "goal_classification": {
+                "choice_and_control": false,
+                "daily_life": true,
+                "work": false,
+                "where_live": false,
+                "health_wellbeing": true,
+                "learning": false,
+                "relationships": false,
+                "social_community": false
+            },
+            "user_age_minimum": 15,
+            "user_age_maximum": 100,
+            "estimated_cost": 25.0
+        }
+    }
+]

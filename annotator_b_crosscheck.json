@@ -1,0 +1,743 @@
+[
+    {
+        "id": 15256,
+        "series_name": "Etac Tray for Cross and Prio wheelchairs with std. Cross arm supports",
+        "original_description": "The tray for the Cross and Prio wheelchairs is transparent and can be mounted on long standard Cross armrests.",
+        "photos": [
+            {
+                "item_id": 15256,
+                "photo_file_name": "15256.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/orig/15256.jpg",
+                "photo_type": "1"
+            },
+            {
+                "item_id": 15256,
+                "photo_file_name": "15256_2.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/orig/15256_2.jpg",
+                "photo_type": "1_2"
+            },
+            {
+                "item_id": 15256,
+                "photo_file_name": "15256_3.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/orig/15256_3.jpg",
+                "photo_type": "1_3"
+            },
+            {
+                "item_id": 15256,
+                "photo_file_name": "15256_4.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/orig/15256_4.jpg",
+                "photo_type": "1_4"
+            },
+            {
+                "item_id": 15256,
+                "photo_file_name": "15256.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/lnet/15256.jpg",
+                "photo_type": "3"
+            },
+            {
+                "item_id": 15256,
+                "photo_file_name": "15256_2.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/lnet/15256_2.jpg",
+                "photo_type": "3_2"
+            },
+            {
+                "item_id": 15256,
+                "photo_file_name": "15256_3.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/lnet/15256_3.jpg",
+                "photo_type": "3_3"
+            },
+            {
+                "item_id": 15256,
+                "photo_file_name": "15256_4.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/lnet/15256_4.jpg",
+                "photo_type": "3_4"
+            },
+            {
+                "item_id": 15256,
+                "photo_file_name": "15256.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/snet/15256.jpg",
+                "photo_type": "4"
+            },
+            {
+                "item_id": 15256,
+                "photo_file_name": "15256_2.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/snet/15256_2.jpg",
+                "photo_type": "4_2"
+            },
+            {
+                "item_id": 15256,
+                "photo_file_name": "15256_3.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/snet/15256_3.jpg",
+                "photo_type": "4_3"
+            },
+            {
+                "item_id": 15256,
+                "photo_file_name": "15256_4.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/snet/15256_4.jpg",
+                "photo_type": "4_4"
+            }
+        ],
+        "LLM_output": {
+            "detailed_description": "The Etac Tray is designed specifically for Cross and Prio wheelchairs and is compatible with standard Cross armrests. The tray is transparent, allowing for easy visibility and cleaning. It provides a convenient surface for holding items such as meals, books, or electronic devices, making daily activities more accessible and comfortable for wheelchair users. The tray is securely mounted on the armrests, ensuring stability and safety during use.",
+            "goals": [
+                "Promote autonomy in daily tasks",
+                "Optimize mobility and accessibility",
+                "Encourage social and recreational engagement",
+                "Enhance overall well-being through improved convenience"
+            ],
+            "healthcare_challenges": [
+                "Mobility impairments",
+                "Physical disabilities",
+                "Limited dexterity or hand function",
+                "Spinal cord injuries",
+                "Stroke rehabilitation",
+                "Multiple sclerosis"
+            ],
+            "goal_classification": {
+                "choice_and_control": false,
+                "daily_life": true,
+                "work": true,
+                "where_live": false,
+                "health_wellbeing": true,
+                "learning": true,
+                "relationships": true,
+                "social_community": true
+            },
+            "user_age_minimum": 15,
+            "user_age_maximum": 100,
+            "estimated_cost": 150.0
+        }
+    },
+    {
+        "id": 65540,
+        "series_name": "Yellow badge with needle and english text",
+        "original_description": "Yellow badge with needle and english text:\nI am Deaf and Visually Impaired.",
+        "photos": [
+            {
+                "item_id": 65540,
+                "photo_file_name": "65540.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/orig/65540.jpg",
+                "photo_type": "1"
+            },
+            {
+                "item_id": 65540,
+                "photo_file_name": "65540.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/lnet/65540.jpg",
+                "photo_type": "3"
+            },
+            {
+                "item_id": 65540,
+                "photo_file_name": "65540.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/snet/65540.jpg",
+                "photo_type": "4"
+            }
+        ],
+        "LLM_output": {
+            "detailed_description": "This item is a bright yellow button badge with a needle attachment on the back, designed to be worn on clothing or accessories. The badge features bold, black text that reads 'I am Deaf and Visually Impaired.' This badge serves as a visual indicator of the wearer's sensory impairments, helping others to recognize and accommodate their needs. The badge is small and lightweight, making it easy to attach to various items such as bags, jackets, or lanyards.",
+            "goals": [
+                "To promote public awareness and understanding of sensory impairments.",
+                "To foster effective and respectful communication and interaction with others.",
+                "To advocate for inclusivity and accessibility in diverse settings.",
+                "To prioritize personal safety and well-being through clear communication of specific needs."
+            ],
+            "healthcare_challenges": [
+                "Deafness, which can impact the ability to hear and communicate verbally.",
+                "Visual impairment, which can affect vision and the ability to see clearly.",
+                "Communication barriers, which can hinder effective interaction with others.",
+                "Need for assistive devices and services to support daily activities and interactions."
+            ],
+            "goal_classification": {
+                "choice_and_control": false,
+                "daily_life": true,
+                "work": true,
+                "where_live": false,
+                "health_wellbeing": true,
+                "learning": true,
+                "relationships": true,
+                "social_community": true
+            },
+            "user_age_minimum": 15,
+            "user_age_maximum": 100,
+            "estimated_cost": 2.99
+        }
+    },
+    {
+        "id": 73123,
+        "series_name": "HipGuard - Airbag hip protector",
+        "original_description": "HipGuard is an airbag belt that protects against hip fractures in a fall accident. HipGuard is placed around the hips and when a fall is detected, an airbag will automatically inflate, providing optimal protection for your hip. HipGuard provides great freedom of movement and is easy to use.",
+        "photos": [
+            {
+                "item_id": 73123,
+                "photo_file_name": "73123.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/orig/73123.jpg",
+                "photo_type": "1"
+            },
+            {
+                "item_id": 73123,
+                "photo_file_name": "73123_2.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/orig/73123_2.jpg",
+                "photo_type": "1_2"
+            },
+            {
+                "item_id": 73123,
+                "photo_file_name": "73123_3.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/orig/73123_3.jpg",
+                "photo_type": "1_3"
+            },
+            {
+                "item_id": 73123,
+                "photo_file_name": "73123.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/lnet/73123.jpg",
+                "photo_type": "3"
+            },
+            {
+                "item_id": 73123,
+                "photo_file_name": "73123_2.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/lnet/73123_2.jpg",
+                "photo_type": "3_2"
+            },
+            {
+                "item_id": 73123,
+                "photo_file_name": "73123_3.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/lnet/73123_3.jpg",
+                "photo_type": "3_3"
+            },
+            {
+                "item_id": 73123,
+                "photo_file_name": "73123.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/snet/73123.jpg",
+                "photo_type": "4"
+            },
+            {
+                "item_id": 73123,
+                "photo_file_name": "73123_2.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/snet/73123_2.jpg",
+                "photo_type": "4_2"
+            },
+            {
+                "item_id": 73123,
+                "photo_file_name": "73123_3.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/snet/73123_3.jpg",
+                "photo_type": "4_3"
+            }
+        ],
+        "LLM_output": {
+            "detailed_description": "The HipGuard is an innovative airbag hip protector designed to enhance safety and provide peace of mind for individuals at risk of hip fractures due to falls. This device is worn around the hips and features advanced fall detection technology. When a fall is detected, the HipGuard automatically inflates an airbag, offering optimal protection to the hips. The belt is designed to provide great freedom of movement while ensuring comfort and ease of use. It is particularly useful for elderly individuals or those with mobility challenges who are more susceptible to falls.",
+            "goals": [
+                "Promote autonomy and mobility for an active lifestyle.",
+                "Minimize injury risk from falls for improved well-being.",
+                "Foster safety and self-assurance during daily activities."
+            ],
+            "healthcare_challenges": [
+                "Falls and hip fractures in the elderly or individuals with mobility impairments.",
+                "Preventing injuries from accidental falls in high-risk populations.",
+                "Managing the risk of hip fractures in individuals with balance issues or weak bones."
+            ],
+            "goal_classification": {
+                "choice_and_control": false,
+                "daily_life": true,
+                "work": false,
+                "where_live": false,
+                "health_wellbeing": true,
+                "learning": false,
+                "relationships": false,
+                "social_community": false
+            },
+            "user_age_minimum": 55,
+            "user_age_maximum": 100,
+            "estimated_cost": 250.0
+        }
+    },
+    {
+        "id": 48039,
+        "series_name": "SCHWEIZER IV Proshield Fit-Over",
+        "original_description": "Filter goggles, Fit-Over with PC filter glass in black matt polycarbonate spectacle frame, size 63-12. Designed for use outside on own existing glasses. Comes in C1, 450, C500 and 511 in combination with and without Gray 60. Block the dangerous short-wave blue light.",
+        "photos": [
+            {
+                "item_id": 48039,
+                "photo_file_name": "48039.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/orig/48039.jpg",
+                "photo_type": "1"
+            },
+            {
+                "item_id": 48039,
+                "photo_file_name": "48039.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/lnet/48039.jpg",
+                "photo_type": "3"
+            },
+            {
+                "item_id": 48039,
+                "photo_file_name": "48039.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/snet/48039.jpg",
+                "photo_type": "4"
+            }
+        ],
+        "LLM_output": {
+            "detailed_description": "The SCHWEIZER IV Proshield Fit-Over are advanced filter goggles designed to be worn over existing glasses. Crafted with a black matt polycarbonate spectacle frame, these goggles feature PC filter glass that effectively blocks harmful short-wave blue light. Available in various filter categories including C1, 450, C500, and 511, these goggles are ideal for outdoor use and provide an additional layer of protection for the eyes. The design ensures comfort and compatibility with most existing eyewear, making them a versatile choice for individuals seeking enhanced eye protection.",
+            "goals": [
+                "To optimize visual experience and safety in diverse environments.",
+                "To safeguard eyes from detrimental light spectrums and promote long-term eye health.",
+                "To ensure unobstructed vision while accommodating existing eyewear during various activities."
+            ],
+            "healthcare_challenges": [
+                "Addressing eye discomfort due to intense light and glare.",
+                "Mitigating eye strain and fatigue during extended outdoor activities.",
+                "Managing conditions such as photophobia or light sensitivity.",
+                "Providing supplementary protection for individuals with pre-existing eye conditions."
+            ],
+            "goal_classification": {
+                "choice_and_control": false,
+                "daily_life": true,
+                "work": false,
+                "where_live": false,
+                "health_wellbeing": true,
+                "learning": false,
+                "relationships": false,
+                "social_community": false
+            },
+            "user_age_minimum": 15,
+            "user_age_maximum": 100,
+            "estimated_cost": 50.0
+        }
+    },
+    {
+        "id": 33993,
+        "series_name": "Grib for pen",
+        "original_description": "3-edged plastic grip that fits pencils and standard pens. Finger-shaped grip. Made of soft plastic. Ass. colors. Package of 3.",
+        "photos": [
+            {
+                "item_id": 33993,
+                "photo_file_name": "33993.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/orig/33993.jpg",
+                "photo_type": "1"
+            },
+            {
+                "item_id": 33993,
+                "photo_file_name": "33993.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/lnet/33993.jpg",
+                "photo_type": "3"
+            },
+            {
+                "item_id": 33993,
+                "photo_file_name": "33993.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/snet/33993.jpg",
+                "photo_type": "4"
+            }
+        ],
+        "LLM_output": {
+            "detailed_description": "The item is a 3-edged plastic grip designed to fit pencils and standard pens. It has a finger-shaped design made of soft plastic, which provides a comfortable and secure grip. The grip is available in various colors and comes in a package of three. This assistive technology is particularly useful for individuals who may have difficulty holding writing instruments due to conditions affecting their grip or hand strength.",
+            "goals": [
+                "To optimize writing experience and minimize physical strain",
+                "To promote fine motor skills development and precision",
+                "To foster autonomy in daily activities involving writing and signing"
+            ],
+            "healthcare_challenges": [
+                "Arthritis and other hand conditions affecting grip",
+                "Dyspraxia and other conditions affecting fine motor skills",
+                "Neurological conditions such as Parkinson's disease or multiple sclerosis"
+            ],
+            "goal_classification": {
+                "choice_and_control": false,
+                "daily_life": true,
+                "work": true,
+                "where_live": false,
+                "health_wellbeing": true,
+                "learning": true,
+                "relationships": true,
+                "social_community": false
+            },
+            "user_age_minimum": 5,
+            "user_age_maximum": 100,
+            "estimated_cost": 5.0
+        }
+    },
+    {
+        "id": 39002,
+        "series_name": "Ball foot protector",
+        "original_description": "An elastic protection which provides protection and cushioning for problems and pain during ball of the foot.\nWith a filling of gel, which gives a very good shock-absorbing effect.\nElastic material which makes it suitable for multiple sizes.\nCan be used on both right and left foot.\nProtective, relieve pain, moisturize the skin, washable.",
+        "photos": [
+            {
+                "item_id": 39002,
+                "photo_file_name": "39002.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/orig/39002.jpg",
+                "photo_type": "1"
+            },
+            {
+                "item_id": 39002,
+                "photo_file_name": "39002.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/lnet/39002.jpg",
+                "photo_type": "3"
+            },
+            {
+                "item_id": 39002,
+                "photo_file_name": "39002.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/snet/39002.jpg",
+                "photo_type": "4"
+            }
+        ],
+        "LLM_output": {
+            "detailed_description": "The Ball Foot Protector is an innovative assistive technology designed to provide relief and protection for individuals experiencing discomfort or pain in the ball of the foot. This device features an elastic material that ensures a comfortable and secure fit for various foot sizes, making it versatile for both the right and left foot. The gel filling offers excellent shock absorption, reducing the impact on the ball of the foot and providing cushioning support. Additionally, the protector helps to moisturize the skin, ensuring that the foot remains healthy and comfortable. It is washable, making it easy to clean and maintain hygiene. Ideal for those suffering from conditions such as metatarsalgia or other foot-related issues, this protector aims to enhance mobility and comfort.",
+            "goals": [
+                "To promote pain-free physical activity",
+                "To optimize foot health and well-being",
+                "To facilitate independent living through improved mobility"
+            ],
+            "healthcare_challenges": [
+                "Metatarsalgia",
+                "Foot pain and discomfort",
+                "Diabetic foot ulcers",
+                "Arthritis affecting the feet"
+            ],
+            "goal_classification": {
+                "choice_and_control": false,
+                "daily_life": true,
+                "work": false,
+                "where_live": false,
+                "health_wellbeing": true,
+                "learning": false,
+                "relationships": false,
+                "social_community": false
+            },
+            "user_age_minimum": 15,
+            "user_age_maximum": 100,
+            "estimated_cost": 25.0
+        }
+    },
+    {
+        "id": 72392,
+        "series_name": "Skinnebensbind SS-1",
+        "original_description": "et skinnebensbind designet til at reducere smerter ved skinnebensbet\u00e6ndelse. Skinnebensbindet har en \u00e5bent design, som sikre en korrekt pasform. Materialet er tyndt og \u00e5ndbart og mindsker dermed ubehag, f.eks. ved sport.\n",
+        "photos": [
+            {
+                "item_id": 72392,
+                "photo_file_name": "72392.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/orig/72392.jpg",
+                "photo_type": "1"
+            },
+            {
+                "item_id": 72392,
+                "photo_file_name": "72392_2.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/orig/72392_2.jpg",
+                "photo_type": "1_2"
+            },
+            {
+                "item_id": 72392,
+                "photo_file_name": "72392_3.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/orig/72392_3.jpg",
+                "photo_type": "1_3"
+            },
+            {
+                "item_id": 72392,
+                "photo_file_name": "72392_4.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/orig/72392_4.jpg",
+                "photo_type": "1_4"
+            },
+            {
+                "item_id": 72392,
+                "photo_file_name": "72392.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/lnet/72392.jpg",
+                "photo_type": "3"
+            },
+            {
+                "item_id": 72392,
+                "photo_file_name": "72392_2.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/lnet/72392_2.jpg",
+                "photo_type": "3_2"
+            },
+            {
+                "item_id": 72392,
+                "photo_file_name": "72392_3.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/lnet/72392_3.jpg",
+                "photo_type": "3_3"
+            },
+            {
+                "item_id": 72392,
+                "photo_file_name": "72392_4.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/lnet/72392_4.jpg",
+                "photo_type": "3_4"
+            },
+            {
+                "item_id": 72392,
+                "photo_file_name": "72392.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/snet/72392.jpg",
+                "photo_type": "4"
+            },
+            {
+                "item_id": 72392,
+                "photo_file_name": "72392_2.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/snet/72392_2.jpg",
+                "photo_type": "4_2"
+            },
+            {
+                "item_id": 72392,
+                "photo_file_name": "72392_3.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/snet/72392_3.jpg",
+                "photo_type": "4_3"
+            },
+            {
+                "item_id": 72392,
+                "photo_file_name": "72392_4.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/snet/72392_4.jpg",
+                "photo_type": "4_4"
+            }
+        ],
+        "LLM_output": {
+            "detailed_description": "The Skinnebensbind SS-1 is a specialized ankle support designed to alleviate pain associated with ankle inflammation. Featuring an open design, it ensures a proper fit while providing targeted support to the ankle area. Constructed from thin, breathable materials, it minimizes discomfort, making it particularly suitable for use during physical activities and sports. This support is designed to offer stability and reduce the risk of further injury, making it an essential tool for individuals suffering from ankle issues.",
+            "goals": [
+                "Promote pain-free physical activity",
+                "Enhance confidence in sports and exercise",
+                "Minimize the risk of recurring ankle injuries",
+                "Optimize mobility and comfort"
+            ],
+            "healthcare_challenges": [
+                "Ankle inflammation",
+                "Ankle sprains",
+                "Chronic ankle instability",
+                "Post-operative ankle recovery",
+                "Arthritis affecting the ankle joint"
+            ],
+            "goal_classification": {
+                "choice_and_control": false,
+                "daily_life": true,
+                "work": false,
+                "where_live": false,
+                "health_wellbeing": true,
+                "learning": false,
+                "relationships": false,
+                "social_community": false
+            },
+            "user_age_minimum": 15,
+            "user_age_maximum": 100,
+            "estimated_cost": 50.0
+        }
+    },
+    {
+        "id": 72942,
+        "series_name": "Tricolor",
+        "original_description": "The innovative design of the TriColor Table Lamp is perfect for desks, countertops, end tables and anywhere else you need a little more light.\nthe large control buttons on the lamp base make this model the optimal choice for the low vision people.",
+        "photos": [
+            {
+                "item_id": 72942,
+                "photo_file_name": "72942.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/orig/72942.jpg",
+                "photo_type": "1"
+            },
+            {
+                "item_id": 72942,
+                "photo_file_name": "72942_2.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/orig/72942_2.jpg",
+                "photo_type": "1_2"
+            },
+            {
+                "item_id": 72942,
+                "photo_file_name": "72942_3.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/orig/72942_3.jpg",
+                "photo_type": "1_3"
+            },
+            {
+                "item_id": 72942,
+                "photo_file_name": "72942_4.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/orig/72942_4.jpg",
+                "photo_type": "1_4"
+            },
+            {
+                "item_id": 72942,
+                "photo_file_name": "72942.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/lnet/72942.jpg",
+                "photo_type": "3"
+            },
+            {
+                "item_id": 72942,
+                "photo_file_name": "72942_2.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/lnet/72942_2.jpg",
+                "photo_type": "3_2"
+            },
+            {
+                "item_id": 72942,
+                "photo_file_name": "72942_3.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/lnet/72942_3.jpg",
+                "photo_type": "3_3"
+            },
+            {
+                "item_id": 72942,
+                "photo_file_name": "72942_4.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/lnet/72942_4.jpg",
+                "photo_type": "3_4"
+            },
+            {
+                "item_id": 72942,
+                "photo_file_name": "72942.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/snet/72942.jpg",
+                "photo_type": "4"
+            },
+            {
+                "item_id": 72942,
+                "photo_file_name": "72942_2.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/snet/72942_2.jpg",
+                "photo_type": "4_2"
+            },
+            {
+                "item_id": 72942,
+                "photo_file_name": "72942_3.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/snet/72942_3.jpg",
+                "photo_type": "4_3"
+            },
+            {
+                "item_id": 72942,
+                "photo_file_name": "72942_4.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/snet/72942_4.jpg",
+                "photo_type": "4_4"
+            }
+        ],
+        "LLM_output": {
+            "detailed_description": "The TriColor Table Lamp is a versatile and user-friendly lighting solution designed for various surfaces such as desks, countertops, and end tables. Its innovative design features a long, adjustable arm that allows for precise positioning to meet specific lighting needs. The lamp includes large control buttons on its base, making it an optimal choice for individuals with low vision or motor impairments. The lamp offers color options to suit different tasks and preferences, enhancing both functionality and user experience.",
+            "goals": [
+                "To optimize visual experience and support daily activities",
+                "To promote autonomy in managing personal lighting needs",
+                "To enhance overall performance and concentration in work or study environments"
+            ],
+            "healthcare_challenges": [
+                "Low vision or visual impairments",
+                "Motor impairments affecting fine motor skills",
+                "Age-related visual decline"
+            ],
+            "goal_classification": {
+                "choice_and_control": true,
+                "daily_life": true,
+                "work": true,
+                "where_live": false,
+                "health_wellbeing": true,
+                "learning": true,
+                "relationships": false,
+                "social_community": false
+            },
+            "user_age_minimum": 15,
+            "user_age_maximum": 100,
+            "estimated_cost": 50.0
+        }
+    },
+    {
+        "id": 72403,
+        "series_name": "Tr\u00e6ningsbold Refit Basic",
+        "original_description": "Tr\u00e6ningsbold fra svenske Refit i h\u00f8j kvalitet. Fremstillet af bl\u00f8d PVC og uden ftalaterne (syntetiske stoffer). Designet med et anti-burst-system, som sikrer bolden kan holde til stort pres. Kan bestilles i enten 60 cm eller 70 cm. Perfekt til hjemmetr\u00e6ning eller som stol p\u00e5 kontoret.",
+        "photos": [
+            {
+                "item_id": 72403,
+                "photo_file_name": "72403.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/orig/72403.jpg",
+                "photo_type": "1"
+            },
+            {
+                "item_id": 72403,
+                "photo_file_name": "72403_2.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/orig/72403_2.jpg",
+                "photo_type": "1_2"
+            },
+            {
+                "item_id": 72403,
+                "photo_file_name": "72403.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/lnet/72403.jpg",
+                "photo_type": "3"
+            },
+            {
+                "item_id": 72403,
+                "photo_file_name": "72403_2.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/lnet/72403_2.jpg",
+                "photo_type": "3_2"
+            },
+            {
+                "item_id": 72403,
+                "photo_file_name": "72403.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/snet/72403.jpg",
+                "photo_type": "4"
+            },
+            {
+                "item_id": 72403,
+                "photo_file_name": "72403_2.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/snet/72403_2.jpg",
+                "photo_type": "4_2"
+            }
+        ],
+        "LLM_output": {
+            "detailed_description": "The Tr\u00e6ningsbold Refit Basic is a high-quality exercise ball designed for various fitness and physical therapy purposes. Made from soft PVC without phthalates, it ensures a safe and eco-friendly workout experience. The ball features an anti-burst system that guarantees it can withstand significant pressure, making it reliable for intense exercises. Available in two sizes, 60 cm and 70 cm, it is suitable for both home workouts and as an office chair to improve posture and comfort. Its durable construction and versatile use make it an excellent addition to any fitness routine or workspace.",
+            "goals": [
+                "Promote overall physical wellness and strength",
+                "Enhance mobility and stability",
+                "Foster a healthy lifestyle through consistent exercise",
+                "Optimize ergonomics and comfort during work",
+                "Strengthen core muscles for better functionality"
+            ],
+            "healthcare_challenges": [
+                "Back pain and posture issues",
+                "Musculoskeletal disorders",
+                "Physical rehabilitation and therapy",
+                "Obesity and weight management",
+                "General fitness and wellness"
+            ],
+            "goal_classification": {
+                "choice_and_control": false,
+                "daily_life": false,
+                "work": true,
+                "where_live": false,
+                "health_wellbeing": true,
+                "learning": false,
+                "relationships": false,
+                "social_community": false
+            },
+            "user_age_minimum": 15,
+            "user_age_maximum": 100,
+            "estimated_cost": 30.0
+        }
+    },
+    {
+        "id": 40606,
+        "series_name": "Cotton Velvet Cover for SAFE Med Ear Pillow no. 115",
+        "original_description": "Cotton velvet cover for SAFE Med Ear Pillow is optimal skin friendly, very soft and elastic in light beige color. \n80 percent Cotton 20 percent Polyester\nWash at 60 C no shrinkage\nWash at 95 C up to 5 percent shrinkage\nTumble dry at medium temperature\n",
+        "photos": [
+            {
+                "item_id": 40606,
+                "photo_file_name": "40606.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/orig/40606.jpg",
+                "photo_type": "1"
+            },
+            {
+                "item_id": 40606,
+                "photo_file_name": "40606.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/lnet/40606.jpg",
+                "photo_type": "3"
+            },
+            {
+                "item_id": 40606,
+                "photo_file_name": "40606.jpg",
+                "photo_url": "https://hmi-basen.dk/blobs/snet/40606.jpg",
+                "photo_type": "4"
+            }
+        ],
+        "LLM_output": {
+            "detailed_description": "The Cotton Velvet Cover for SAFE Med Ear Pillow no. 115 is a high-quality, skin-friendly pillow cover designed for comfort and durability. Made from a blend of 80% cotton and 20% polyester, this cover is incredibly soft and elastic, ensuring a comfortable sleeping experience. The light beige color adds a touch of elegance to any bedroom decor. The cover is designed to fit the SAFE Med Ear Pillow perfectly, providing support and comfort for users. It is machine-washable, with instructions to wash at 60\u00b0C for no shrinkage or up to 95\u00b0C for up to 5% shrinkage. Tumble drying at a medium temperature is also recommended for easy maintenance.",
+            "goals": [
+                "To optimize sleep quality and comfort",
+                "To promote a clean and hygienic sleeping environment",
+                "To foster overall well-being through improved rest"
+            ],
+            "healthcare_challenges": [
+                "Sleep disorders",
+                "Ear discomfort or pain",
+                "Allergies or skin sensitivities"
+            ],
+            "goal_classification": {
+                "choice_and_control": false,
+                "daily_life": true,
+                "work": false,
+                "where_live": false,
+                "health_wellbeing": true,
+                "learning": false,
+                "relationships": false,
+                "social_community": false
+            },
+            "user_age_minimum": 15,
+            "user_age_maximum": 100,
+            "estimated_cost": 25.0
+        }
+    }
+]
